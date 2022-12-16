@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/combineReducer/static/css/main.5197929e.css",
+    "main.js": "/combineReducer/static/js/main.f81de4ab.js",
+    "static/js/787.7322237e.chunk.js": "/combineReducer/static/js/787.7322237e.chunk.js",
+    "index.html": "/combineReducer/index.html",
+    "main.5197929e.css.map": "/combineReducer/static/css/main.5197929e.css.map",
+    "main.f81de4ab.js.map": "/combineReducer/static/js/main.f81de4ab.js.map",
+    "787.7322237e.chunk.js.map": "/combineReducer/static/js/787.7322237e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5197929e.css",
+    "static/js/main.f81de4ab.js"
+  ]
+}
